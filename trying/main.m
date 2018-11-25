@@ -37,7 +37,7 @@ int main () {
             NSLog(@"Element[%d] = %d\n", j, n[j] );
         }
         
-        
+        //okayy
     }
     
     Book book;
